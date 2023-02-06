@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.img {
+  height: 300px;
+  width: 90%;
+}
+.name {
+  display: flex;
+  align-items: center;
+}
+.avt {
+  height: 20px;
+  width: 20px;
+  border-radius: 20px;
+  margin-right: 10px;
+}

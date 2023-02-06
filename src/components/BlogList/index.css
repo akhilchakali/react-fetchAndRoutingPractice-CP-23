@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.cont {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
